@@ -25,13 +25,13 @@ Work only for MacOS, cause of Minilibx (42 graphic library), [https://harm-smits
 
   Then: Fill the file with:
 
-    - 1 for a wall (map must be surrounded with)
+    - 1 for a blue wall (map must be surrounded with)
 
-    - 0 for nothing
+    - 0 for nothing (white)
 
-    - P for starting point (only one in the map)
+    - P for red starting point (only one in the map)
 
-    - E for endpoint
+    - E for green endpoint
 
     - C for coins
 
