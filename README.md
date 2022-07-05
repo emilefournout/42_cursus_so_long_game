@@ -19,11 +19,11 @@ Work only for MacOS, cause of Minilibx (42 graphic library), [https://harm-smits
 
 **YOU CAN CREATE YOUR OWN MAP:**
 
-  First:
+First:
     `touch <namemap>.ber`
 
 
-  Then: Fill the file with:
+Then: Fill the file with:
 
     - 1 for a blue wall (map must be surrounded with)
 
@@ -34,6 +34,13 @@ Work only for MacOS, cause of Minilibx (42 graphic library), [https://harm-smits
     - E for green endpoint
 
     - C for coins
+    
+ 
+ Exemple of map :
+ 
+ <img width="67" alt="Screen Shot 2022-07-05 at 7 38 48 PM" src="https://user-images.githubusercontent.com/77667022/177384959-56a943e8-dd13-4c44-8cd4-e0c7d7720a5a.png">
+
+
 
 
 Very interresting project, a big part is generate pixel by pixel, learn a lot about memory and have first use of graphical lib low level
