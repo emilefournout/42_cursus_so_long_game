@@ -1,6 +1,11 @@
 # so_long-game
 Little C game pacman like
+
 <img width="1303" alt="emile" src="https://user-images.githubusercontent.com/77667022/177381072-6f051cea-f506-41fc-949b-9c092649a1cc.png">
+
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl3uaey7l005409i8ff06egjg/stats?cursusId=21&coalitionId=undefined" alt="efournou's 42 stats" /></a>
+
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl3uaey7l005409i8ff06egjg/project/2633720" alt="efournou's 42 so_long Score" /></a>
 
 Work only for MacOS, cause of Minilibx (42 graphic library), [https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html#getting-a-screen-on-windows-10-wsl2](https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html#getting-a-screen-on-windows-10-wsl2) for those who want to use Linux or Windows
 
