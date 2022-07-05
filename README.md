@@ -36,4 +36,5 @@ Work only for MacOS, cause of Minilibx (42 graphic library), [https://harm-smits
     - C for coins
 
 
+Very interresting project, a big part is generate pixel by pixel, learn a lot about memory and have first use of graphical lib low level
 That's it !
